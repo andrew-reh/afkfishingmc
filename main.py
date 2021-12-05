@@ -1,7 +1,5 @@
 import cv2 as cv
-import numpy as np
 import pytesseract as pytess
-from PIL import Image, ImageEnhance
 import time
 import mouse
 
